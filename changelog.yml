@@ -1,4 +1,7 @@
 unreleased:
+  - '[New] Scrolls a single message for a set duration'
+  - '[New] Simple HTTP auth and display message route'
+  - '[New] Display the boards IP address on startup'
 releases:
   0.0.0:
     - '[New] Initial Commit'
